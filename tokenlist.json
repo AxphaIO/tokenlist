@@ -1,10 +1,10 @@
 {
   "name": "weconomy Default",
-  "timestamp": "2025-10-22T07:44:37.332Z",
+  "timestamp": "2025-12-10T07:44:37.332Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 4
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://weconomy.network//assets/favicon-a1b0eefa.png",
@@ -14,40 +14,40 @@
   ],
   "tokens": [
     {
-      "chainId": 5031,
-      "address": "0x046EDe9564A72571df6F5e44d0405360c0f4dCab",
-      "name": "WSOMI",
-      "symbol": "WSOMI",
+      "chainId": 5042002,
+      "address": "0x911b4000D3422F482F4062a913885f7b035382Df",
+      "name": "WUSDC",
+      "symbol": "WUSDC",
       "decimals": 18,
       "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/wsomi.png"
+      "logoURI": "https://raw.githubusercontent.com/AxphaIO/tokenlist/refs/heads/main/assets/usdc.png"
     },
     {
-      "chainId": 5031,
-      "address": "0x28bec7e30e6faee657a03e19bf1128aad7632a00",
+      "chainId": 5042002,
+      "address": "0x3600000000000000000000000000000000000000",
       "name": "USDC",
-      "symbol": "USDC.e",
+      "symbol": "USDC",
       "decimals": 6,
       "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/AxphaIO/tokenlist/refs/heads/main/assets/usdc.png"
     },
     {
-      "chainId": 5031,
-      "address": "0x67B302E35Aef5EEE8c32D934F5856869EF428330",
-      "name": "USDT",
-      "symbol": "USDT",
+      "chainId": 5042002,
+      "address": "0x89B50855Aa3bE2F677cD6303Cec089B5F319D72a",
+      "name": "EURC",
+      "symbol": "EURC",
       "decimals": 6,
       "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/AxphaIO/tokenlist/refs/heads/main/assets/eurc.png"
     },
     {
-      "chainId": 5031,
-      "address": "0x66dA8f12CEA987BF79F1c3b278cdAe741C1a1A75",
-      "name": "stSOMI",
-      "symbol": "stSOMI",
-      "decimals": 18,
+      "chainId": 5042002,
+      "address": "0xC0D12A7Cf565A004757c62cAF34Dd37467F57f0e",
+      "name": "USDC.a",
+      "symbol": "USDC.a",
+      "decimals": 6,
       "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/stsomi.png"
+      "logoURI": "https://raw.githubusercontent.com/AxphaIO/tokenlist/refs/heads/main/assets/usdc.png"
     }
   ]
 }
