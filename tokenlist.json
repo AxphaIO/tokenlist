@@ -39,15 +39,6 @@
       "decimals": 6,
       "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/AxphaIO/tokenlist/refs/heads/main/assets/usdc.png"
-    },
-    {
-      "chainId": 5042002,
-      "address": "0x911b4000D3422F482F4062a913885f7b035382Df",
-      "name": "WUSDC",
-      "symbol": "WUSDC",
-      "decimals": 18,
-      "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/AxphaIO/tokenlist/refs/heads/main/assets/usdc.png"
     }
   ]
 }
