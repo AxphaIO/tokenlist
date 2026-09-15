@@ -1,10 +1,10 @@
 {
   "name": "weconomy Default",
-  "timestamp": "2025-12-10T07:44:37.332Z",
+  "timestamp": "2026-09-16T07:44:37.332Z",
   "version": {
-    "major": 0,
+    "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 0
   },
   "tags": {},
   "logoURI": "https://weconomy.network//assets/favicon-a1b0eefa.png",
@@ -14,16 +14,7 @@
   ],
   "tokens": [
     {
-      "chainId": 5042002,
-      "address": "0x911b4000D3422F482F4062a913885f7b035382Df",
-      "name": "WUSDC",
-      "symbol": "WUSDC",
-      "decimals": 18,
-      "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/AxphaIO/tokenlist/refs/heads/main/assets/usdc.png"
-    },
-    {
-      "chainId": 5042002,
+      "chainId": 5042,
       "address": "0x3600000000000000000000000000000000000000",
       "name": "USDC",
       "symbol": "USDC",
@@ -32,8 +23,8 @@
       "logoURI": "https://raw.githubusercontent.com/AxphaIO/tokenlist/refs/heads/main/assets/usdc.png"
     },
     {
-      "chainId": 5042002,
-      "address": "0x89B50855Aa3bE2F677cD6303Cec089B5F319D72a",
+      "chainId": 5042,
+      "address": "0xbEf5f6d51CB62b58e6A8f77868681825C6fe21c1",
       "name": "EURC",
       "symbol": "EURC",
       "decimals": 6,
@@ -41,13 +32,13 @@
       "logoURI": "https://raw.githubusercontent.com/AxphaIO/tokenlist/refs/heads/main/assets/eurc.png"
     },
     {
-      "chainId": 5042002,
-      "address": "0xC0D12A7Cf565A004757c62cAF34Dd37467F57f0e",
-      "name": "USDC.a",
-      "symbol": "USDC.a",
-      "decimals": 6,
+      "chainId": 5042,
+      "address": "0x171A4217b86A807A64eB94757Db6849fb4bDbAA0",
+      "name": "cirBTC",
+      "symbol": "cirBTC",
+      "decimals": 8,
       "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/AxphaIO/tokenlist/refs/heads/main/assets/usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/AxphaIO/tokenlist/refs/heads/main/assets/btc.png"
     }
   ]
 }
