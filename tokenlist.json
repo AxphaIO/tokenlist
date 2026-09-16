@@ -1,10 +1,10 @@
 {
   "name": "weconomy Default",
-  "timestamp": "2026-09-16T07:44:37.332Z",
+  "timestamp": "2026-09-16T08:44:37.332Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://weconomy.network//assets/favicon-a1b0eefa.png",
@@ -45,7 +45,7 @@
       "address": "0xece5ca8bf9220718e5727754026757512212cb3c",
       "name": "Argus",
       "symbol": "ARGUS",
-      "decimals": 8,
+      "decimals": 18,
       "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/AxphaIO/tokenlist/refs/heads/main/assets/argus.png"
     }
