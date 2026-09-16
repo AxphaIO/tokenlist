@@ -39,6 +39,15 @@
       "decimals": 8,
       "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/AxphaIO/tokenlist/refs/heads/main/assets/btc.png"
+    },
+    {
+      "chainId": 5042,
+      "address": "0xece5ca8bf9220718e5727754026757512212cb3c",
+      "name": "Argus",
+      "symbol": "ARGUS",
+      "decimals": 8,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/AxphaIO/tokenlist/refs/heads/main/assets/argus.png"
     }
   ]
 }
